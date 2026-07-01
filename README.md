@@ -8,7 +8,7 @@ Building immersive 2D & 3D experiences with Unity, C#, and JavaScript.
 
 🛠 Tech Stack
 
-Unity 
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) Unity 
 | C#
 | JavaScript
 | Git
