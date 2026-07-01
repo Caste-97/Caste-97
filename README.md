@@ -8,7 +8,7 @@ Building immersive 2D & 3D experiences with Unity, C#, and JavaScript.
 
 🛠 Tech Stack
 
-Unity |
+Unity 
 | C#
 | JavaScript
 | Git
