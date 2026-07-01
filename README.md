@@ -30,11 +30,11 @@ Building immersive 2D & 3D experiences with Unity, C#, and JavaScript.
 
 📫 Contact
 
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sebastián-castellanos-torres)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sebastián-castellanos-torres)
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](caste1997.itch.io) 
 
-Email: castellanostorressebastian@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castellanostorressebastian@gmail.com)
 
 
 
