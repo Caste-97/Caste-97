@@ -19,20 +19,26 @@ Building immersive 2D & 3D experiences with Unity, C#, and JavaScript.
 🚀 Featured Projects
 
 🎮 Animal Feeding Prototype
+
 🎮 Endless Runner
+
 🎮 Puzzle Adventure
+
 🎮 Vehicle Control
+
 🎮 Sound and Effects
+
 🎮 Gameplay Mechanics
+
 🎮 User Interface
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sebastián-castellanos-torres)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-castellanos-torres/)
 
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](caste1997.itch.io) 
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://caste1997.itch.io/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castellanostorressebastian@gmail.com)
 
