@@ -30,9 +30,9 @@ Building immersive 2D & 3D experiences with Unity, C#, and JavaScript.
 
 📫 Contact
 
-linkedin.com/in/sebastián-castellanos-torres
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN) linkedin.com/in/sebastián-castellanos-torres
 
-caste1997.itch.io
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](TU_ITCH) caste1997.itch.io
 
 Email: castellanostorressebastian@gmail.com
 
