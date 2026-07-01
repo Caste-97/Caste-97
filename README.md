@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi Everyone, I'm Sebastian Castellanos Torres
 
-<!--
-**Caste-97/Caste-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Unity Developer | Game & Level Designer
 
-Here are some ideas to get you started:
+Building immersive 2D & 3D experiences with Unity, C#, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠 Tech Stack
+
+Unity
+C#
+JavaScript
+Git
+Visual Studio
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+🎮 Animal Feeding Prototype
+🎮 Endless Runner
+🎮 Puzzle Adventure
+🎮 Vehicle Control
+🎮 Sound and Effects
+🎮 Gameplay Mechanics
+🎮 User Interface
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Contact
+
+linkedin.com/in/sebastián-castellanos-torres
+caste1997.itch.io
+Email: castellanostorressebastian@gmail.com
