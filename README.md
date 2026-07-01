@@ -8,11 +8,11 @@ Building immersive 2D & 3D experiences with Unity, C#, and JavaScript.
 
 🛠 Tech Stack
 
-Unity
-C#
-JavaScript
-Git
-Visual Studio
+Unity |
+| C#
+| JavaScript
+| Git
+| Visual Studio
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
